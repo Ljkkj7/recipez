@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "recipezmobile",
-    "slug": "recipezmobile",
+    "slug": "recipez",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b1c3f0d3-1f4e-4a2b-8f7e-2f3c9e4d5b6a"
+      }
+    },
+    "owner": "kjx26"
   }
 }
